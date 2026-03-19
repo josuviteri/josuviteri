@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Emerging AI / Machine Learning Engineer<br>⚡ Student at the University of Deusto<br>🌱 Intern at EKIN<br>💬 Interested in sota ML techniques and security<br>
+🔭 Emerging AI / Machine Learning Engineer<br>⚡ Student at the University of Deusto<br>🌱 Intern at EKIN<br>💬 Interested in sota ML techniques and safe deployment ops<br>
 
 
 ## 🌐 Socials:
