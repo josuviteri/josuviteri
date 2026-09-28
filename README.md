@@ -8,7 +8,7 @@
 ```
 ### About Me:
 - Emerging **Machine Learning | MLOps Engineer**
-- Intern at Ikerlan
+- Intern at **Ikerlan**
 - Student at the **University of Deusto**
 - Interested in classic and SOTA machine learning algorithms
 
